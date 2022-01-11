@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Halilhodzic Mladen
-- 👀 I’m interested currently in swift and flutter
+- 👀 I’m currently interested in swift and flutter
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on mobile development projects
 - 📫 How to reach me mladen225@gmail.com
